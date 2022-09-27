@@ -1,0 +1,3 @@
+[submodule "authuser-service"]
+	path = authuser-service
+	url = git@github.com:aoscarsj/authuser-service.git
