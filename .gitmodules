@@ -4,3 +4,6 @@
 [submodule "course-service"]
 	path = course-service
 	url = git@github.com:aoscarsj/course-service.git
+[submodule "notification-service"]
+	path = notification-service
+	url = git@github.com:aoscarsj/notification-service.git
