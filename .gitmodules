@@ -1,6 +1,7 @@
 [submodule "authuser-service"]
 	path = authuser-service
 	url = git@github.com:aoscarsj/authuser-service.git
+	branch = main
 [submodule "course-service"]
 	path = course-service
 	url = git@github.com:aoscarsj/course-service.git
